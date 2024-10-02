@@ -11,7 +11,7 @@ namespace Sportyfy.Controllers
     public class ProductsController : ControllerBase
     {
 
-
+    
         //in memory list of products(simulu data store(db))
         private static List<Product>_products = new List<Product>
 
